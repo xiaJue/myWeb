@@ -1,0 +1,54 @@
+PRIVACY POLICY — EARCALM
+
+Effective date: November 20, 2026
+Developer: xiajue (individual developer)
+Contact: moing97@gmail.com
+
+EarCalm ("the app", "we") is a tinnitus masking and sleep tracking app. This policy explains how the app handles your information. In short: the app has no account and no server, and it does not upload your data. Everything stays on your device unless you choose to share it yourself.
+
+1. Information stored on your device
+The app stores the following in its private storage on your phone:
+
+- Sleep records you enter or confirm: date, tinnitus distress level, sleep duration, number of night-time awakenings.
+- Playback statistics: how long masking sound was played each day.
+- Settings: matched frequency, volume levels, selected sounds, language, night-monitoring and reminder preferences, and whether premium features are unlocked.
+- Whether you have completed the first-launch introduction.
+This information is used only to show your records, trends and settings inside the app. It is not transmitted to us or to any third party.
+
+2. Health Connect (optional)
+If you choose to connect Health Connect, the app requests read-only access to sleep sessions (SleepSessionRecord) so it can pre-fill last night's sleep duration. This is optional; the app works without it.
+
+- Sleep data is read and processed only on your device.
+- It is never uploaded, sold, or used for advertising.
+- The app does not write data to Health Connect.
+- You can revoke access at any time in the Health Connect app or in Android Settings. Revoking access stops future reads; records already saved in EarCalm remain until you delete them.
+3. Activity recognition and night monitoring (optional)
+Night monitoring is off by default. If you turn it on, the app uses Android's activity recognition permission to estimate sleep and awakenings during the night. This processing happens on your device only. You can turn monitoring off at any time in the app's Records tab.
+
+4. Notifications
+The app sends local notifications only: a daily reminder to log your sleep (if enabled), playback controls, and night-monitoring status. No push service or server is involved.
+
+5. Purchases
+Premium features are sold through Google Play Billing. Google processes the payment; we never receive your card number, billing address, or other payment details. The app contacts Google Play only to query product prices and whether a purchase is active, so it can unlock features. Google's handling of payment data is governed by Google's Privacy Policy. Purchases are tied to your Google account, not to any account in this app.
+
+6. Data export and deletion
+- Export: if you use "Export data", the app writes a JSON file containing your records, playback statistics and settings to the app's cache folder and hands it to the Android share sheet. You choose where it goes. We do not receive a copy.
+- Clear records: "Clear records" in your profile permanently deletes your sleep records, playback statistics and night-monitoring results from the device. Purchases and language settings are kept.
+- Uninstall: uninstalling the app deletes all data stored by the app.
+7. What we do not do
+- We do not require or create an account.
+- We do not operate a server or cloud database, and we do not transmit your records or health data off your device.
+- We do not use advertising or analytics SDKs.
+- We do not sell, rent or share your personal information.
+- We do not use Health Connect data for advertising or for any purpose other than the feature described above.
+8. Security
+Data is stored in the app's private storage, which is protected by Android's app sandbox. Because nothing is uploaded, there is no server-side copy to be breached. Please note that no device is perfectly secure; anyone with unlocked access to your phone can see data stored by installed apps.
+
+9. Children
+The app is not directed to children under 13 (or the minimum age required in your country). We do not knowingly collect information from children.
+
+10. Changes to this policy
+If the app's data practices change — for example, if a future version adds optional usage analytics — we will update this page and the Google Play Data safety section before that version is released, and revise the effective date above. Material changes will be described in the app's release notes.
+
+11. Contact
+Questions about this policy or your data: moing97@gmail.com
